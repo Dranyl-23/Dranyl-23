@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/api?font=Fira+Code&size=32&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey,+I'm+Dranyl!+👋;Mobile+App+%26+Web+Developer;Based+in+Davao,+PH+🇵🇭" />
+# Hey, I'm Dranyl! 👋
+### Mobile App & Web Developer
+#### 📍 Davao City, Philippines 🇵🇭
 
 <br/>
 
@@ -83,14 +85,6 @@ const dranyl = {
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dranyl-23&theme=tokyo-night&bg_color=0D1117&color=6C63FF&line=6C63FF&point=ffffff&hide_border=true" width="100%" />
-</div>
-
----
-
 <div align="center">
 
 ## 💬 Let's work together!
@@ -98,9 +92,5 @@ const dranyl = {
 > *"Your vision is my mission. I want to be delighted to hear from you."*
 
 📧 **Alfielynard23@gmail.com** &nbsp;|&nbsp; 📍 **Davao City, Philippines**
-
-<br/>
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Dranyl-23.Dranyl-23&left_color=6C63FF&right_color=0D1117" />
 
 </div>
