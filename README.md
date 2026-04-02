@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Hey,%20I'm%20Dranyl!%20&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Mobile%20App%20%26%20Web%20Developer&descAlignY=58&descSize=18)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Hey,%20I'm%20Dranyl!%20&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Mobile%20App%20%26%20Web%20Developer&descAlignY=58&descSize=18" width="100%" />
+</div>
 
 <div align="center">
 
@@ -84,9 +86,7 @@ const dranyl = {
 ## 📈 Activity Graph
 
 <div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dranyl-23&theme=tokyo-night&bg_color=0D1117&color=6C63FF&line=6C63FF&point=ffffff&hide_border=true)](https://github.com/Dranyl-23)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dranyl-23&theme=tokyo-night&bg_color=0D1117&color=6C63FF&line=6C63FF&point=ffffff&hide_border=true" width="100%" />
 </div>
 
 ---
@@ -101,8 +101,10 @@ const dranyl = {
 
 <br/>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Dranyl-23.Dranyl-23&left_color=6C63FF&right_color=0D1117)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Dranyl-23.Dranyl-23&left_color=6C63FF&right_color=0D1117" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%" />
 
 </div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer)
