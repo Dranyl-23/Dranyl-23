@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Hey,%20I'm%20Dranyl!%20&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Mobile%20App%20%26%20Web%20Developer&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com/api?font=Fira+Code&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey,+I'm+Dranyl!+👋;Mobile+App+%26+Web+Developer;Based+in+Davao,+PH+🇵🇭" />
 </div>
 
 <div align="center">
