@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/api?font=Fira+Code&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey,+I'm+Dranyl!+👋;Mobile+App+%26+Web+Developer;Based+in+Davao,+PH+🇵🇭" />
-</div>
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com/api?font=Fira+Code&size=32&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey,+I'm+Dranyl!+👋;Mobile+App+%26+Web+Developer;Based+in+Davao,+PH+🇵🇭" />
+
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-6C63FF?style=for-the-badge&logoColor=white)](https://portfolio-inky-zeta-58.vercel.app/)
 [![Facebook](https://img.shields.io/badge/📘%20Facebook-1877F2?style=for-the-badge&logoColor=white)](https://web.facebook.com/Askyyy23/)
@@ -102,9 +102,5 @@ const dranyl = {
 <br/>
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Dranyl-23.Dranyl-23&left_color=6C63FF&right_color=0D1117" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%" />
 
 </div>
