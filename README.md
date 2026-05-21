@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-6C63FF?style=for-the-badge&logoColor=white)](https://portfolio-inky-zeta-58.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-6C63FF?style=for-the-badge&logoColor=white)](lynard-portflio.vercel.app)
 [![Facebook](https://img.shields.io/badge/📘%20Facebook-1877F2?style=for-the-badge&logoColor=white)](https://web.facebook.com/Askyyy23/)
 [![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/alfie-lynard-polacas-36ab87370/)
 [![Gmail](https://img.shields.io/badge/📧%20Gmail-D14836?style=for-the-badge&logoColor=white)](mailto:Alfielynard23@gmail.com)
