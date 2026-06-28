@@ -66,8 +66,31 @@ const dranyl = {
   <a href="https://chainbudget.vercel.app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dranyl-23&repo=Chainbudget&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117" />
   </a>
-  <p><i>A Blockchain-Based Budget Management System for Transparent Organizational Fund Monitoring.</i></p>
 </div>
+
+**A Web3-Integrated App for Transparent Organizational Fund Monitoring**
+
+*ChainBudget is a blockchain-based management system designed to bring unparalleled security, transparency, and efficiency to organizational funding and budgeting processes.*
+
+**🎯 Main Purpose**
+- Track expenses and income seamlessly using a modern Web2 interface.
+- Provide transparent and immutable records using Web3 Blockchain technology.
+- Prevent fund mismanagement through Role-Based Access Control and 2-of-N Multi-Sig approvals.
+- Enable automated execution of verified transactions via Smart Contracts.
+
+**✨ Key Features**
+- Role-Based Dashboard with Analytics
+- MetaMask integration for On-Chain signing
+- Document verification and IPFS/Hash storing
+- Audit trails for all financial activities
+- Automated multi-level approval workflows
+
+<br />
+
+## 🌱 Currently Learning & Goals
+- Exploring advanced **Smart Contract** security patterns.
+- Deepening knowledge in **Cloud Architecture** (AWS/GCP).
+- Aiming to build more open-source Web3 projects that solve real-world problems.
 
 <br />
 
