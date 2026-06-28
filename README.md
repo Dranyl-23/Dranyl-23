@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=435&lines=Building+Next-Gen+Web+Apps;Blockchain+%26+Web3+Enthusiast;Passionate+UI%2FUX+Creator" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=435&lines=Building+Next-Gen+Web+Apps;Blockchain+%26+Web3+Enthusiast;Passionate+UI%2FUX+Creator" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
@@ -16,25 +16,25 @@
 
 <br />
 
-## ????? About Me
+## 👨‍💻 About Me
 
-`javascript
+```javascript
 const dranyl = {
   name: "Alfie Lynard Polacas",
   alias: "Dranyl",
   role: "Mobile App & Web Developer",
-  location: "Davao City, Philippines ??",
+  location: "Davao City, Philippines 📍",
   passion: "Building sleek, scalable, and premium applications.",
   techFocus: ["Web3", "Next.js", "React Native", "UI/UX Design"],
   sayHi: function() {
     return "Let's build something amazing together!";
   }
 };
-`
+```
 
 <br />
 
-## ??? Tech Stack & Arsenal
+## 🛠️ Tech Stack & Arsenal
 
 <div align="center">
   <p><strong>Frontend & UI</strong></p>
@@ -49,7 +49,7 @@ const dranyl = {
 
 <br />
 
-## ?? GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dranyl-23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
@@ -60,7 +60,7 @@ const dranyl = {
 
 <br />
 
-## ?? Featured Project: ChainBudget
+## 🚀 Featured Project: ChainBudget
 
 <div align="center">
   <a href="https://chainbudgetapp.com">
