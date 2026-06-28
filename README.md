@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=200&section=header&text=Alfie%20Lynard&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=200&section=header&text=Dranyl&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
