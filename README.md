@@ -10,7 +10,7 @@
 <div align="center">
   <a href="mailto:alfielvnard23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/alfie-lynard-polacas"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://dranyl.com"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=react&logoColor=white" /></a>
+  <a href="https://lynard-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=react&logoColor=white" /></a>
   <a href="https://facebook.com/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </div>
 
@@ -63,7 +63,7 @@ const dranyl = {
 ## 🚀 Featured Project: ChainBudget
 
 <div align="center">
-  <a href="https://chainbudgetapp.com">
+  <a href="https://chainbudget.vercel.app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dranyl-23&repo=Chainbudget&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117" />
   </a>
   <p><i>A Blockchain-Based Budget Management System for Transparent Organizational Fund Monitoring.</i></p>
