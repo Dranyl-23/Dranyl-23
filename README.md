@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=200&section=header&text=Alfie%20Lynard%20Polacas&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20App%20%26%20Web%20Developer&descAlignY=58&descAlign=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=200&section=header&text=Alfie%20Lynard&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
@@ -16,25 +16,25 @@
 
 <br />
 
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png" alt="About Me" width="30" height="30" style="vertical-align: middle; margin-right: 8px;" /> About Me</h2>
+## ????? About Me
 
-```javascript
+`javascript
 const dranyl = {
   name: "Alfie Lynard Polacas",
   alias: "Dranyl",
   role: "Mobile App & Web Developer",
-  location: "Davao City, Philippines 📍",
+  location: "Davao City, Philippines ??",
   passion: "Building sleek, scalable, and premium applications.",
   techFocus: ["Web3", "Next.js", "React Native", "UI/UX Design"],
   sayHi: function() {
     return "Let's build something amazing together!";
   }
 };
-```
+`
 
 <br />
 
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tech Stack" width="30" height="30" style="vertical-align: middle; margin-right: 8px;" /> Tech Stack & Arsenal</h2>
+## ??? Tech Stack & Arsenal
 
 <div align="center">
   <p><strong>Frontend & UI</strong></p>
@@ -49,7 +49,7 @@ const dranyl = {
 
 <br />
 
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Analytics" width="30" height="30" style="vertical-align: middle; margin-right: 8px;" /> GitHub Analytics</h2>
+## ?? GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dranyl-23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
@@ -60,7 +60,7 @@ const dranyl = {
 
 <br />
 
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Project" width="30" height="30" style="vertical-align: middle; margin-right: 8px;" /> Featured Project: ChainBudget</h2>
+## ?? Featured Project: ChainBudget
 
 <div align="center">
   <a href="https://chainbudgetapp.com">
