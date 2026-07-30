@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.com/api?type=waving&color=0:FF6B9D,15:6C63FF,40:00C6FF,65:8A2BE2,100:FF6B9D&height=220&section=header&text=Dranyl&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20App%20%26%20Web%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<!-- VIDEO HEADER (test) — paste your github user-attachments URL below, replace the line entirely -->
+https://github.com/user-attachments/assets/PASTE-YOUR-VIDEO-ID-HERE
+
+<!-- fallback banner, kept as comment in case the video doesn't load:
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,15:6C63FF,40:00C6FF,65:8A2BE2,100:FF6B9D&height=220&section=header&text=Dranyl&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20App%20%26%20Web%20Developer&descAlignY=58&descSize=18" width="100%"/>
+-->
+
 
 ### Mobile App & Web Developer | React • Next.js • Firebase
 
@@ -35,7 +41,7 @@ const dranyl = {
 
 </td>
 <td width="35%" align="center">
-<img src="https://raw.githubusercontent.com/Dranyl-23/Dranyl-23/main/coding.jpg" width="220"/>
+<img src="https://raw.githubusercontent.com/Dranyl-23/Dranyl-23/main/assets/coding.jpg" width="220"/>
 </td>
 </tr>
 </table>
@@ -61,7 +67,7 @@ const dranyl = {
 ## 🎧 Off the Clock
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Dranyl-23/Dranyl-23/main/404.jpg" width="260"/>
+<img src="https://raw.githubusercontent.com/Dranyl-23/Dranyl-23/main/assets/404.jpg" width="260"/>
 </div>
 
 <br>
@@ -119,4 +125,4 @@ Unity AR app bringing Filipino historical heroes — Bonifacio, Rizal, Lapu-Lapu
 
 <br>
 
-<img src="https://capsule-render.com/api?type=waving&color=0:FF6B9D,50:6C63FF,100:00C6FF&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,50:6C63FF,100:00C6FF&height=100&section=footer" width="100%"/>
