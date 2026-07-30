@@ -94,7 +94,7 @@ Blockchain-based cash disbursement platform for Philippine 4Ps beneficiaries, bu
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/Dranyl-23/Dranyl-23/main/RD_logo.png" width="50"/> [Report-Davao](https://github.com/Dranyl-23/Report-Davao possition"center")
+### <img src="https://raw.githubusercontent.com/Dranyl-23/Dranyl-23/main/RD_logo.png" width="50"/> [Report-Davao](https://github.com/Dranyl-23/Report-Davao possition="center")
 Civic tech platform connecting citizens and LGUs for infrastructure issue reporting in Davao City.
 
 </td>
