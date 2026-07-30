@@ -55,7 +55,7 @@ const dranyl = {
 
 **Backend, Database & Blockchain**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,solidity,rust,laravel,unity,postgresql,sqllite,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,solidity,rust,laravel,unity,postgresql,sqlite,mysql&theme=dark" />
 
 **Tools & Deployment**
 
