@@ -69,7 +69,7 @@ const dranyl = {
 ## 🎧 Off the Clock
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Dranyl-23/Dranyl-23/main/404.jpg" width="260"/>
+<img src="https://raw.githubusercontent.com/Dranyl-23/Dranyl-23/main/git" width="260"/>
 </div>
 
 <br>
