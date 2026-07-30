@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- VIDEO HEADER (test) — paste your github user-attachments URL below, replace the line entirely -->
-https://github.com/Dranyl-23/Dranyl-23/issues/3#issue-5020294369
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f180af54-a515-473f-97c1-349244a6ed96" />
 <!-- fallback banner, kept as comment in case the video doesn't load:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,15:6C63FF,40:00C6FF,65:8A2BE2,100:FF6B9D&height=220&section=header&text=Dranyl&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20App%20%26%20Web%20Developer&descAlignY=58&descSize=18" width="100%"/>
 -->
