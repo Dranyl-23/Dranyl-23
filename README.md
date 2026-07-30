@@ -51,7 +51,7 @@ const dranyl = {
 
 **Frontend & UI**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,flutter,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,vite,flutter,figma&theme=dark" />
 
 **Backend, Database & Blockchain**
 
