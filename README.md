@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.com/api?type=waving&color=0:6C63FF,100:00C6FF&height=200&section=header&text=Dranyl&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.com/api?type=waving&color=0:FF6B9D,15:6C63FF,40:00C6FF,65:8A2BE2,100:FF6B9D&height=220&section=header&text=Dranyl&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20App%20%26%20Web%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 ### Mobile App & Web Developer | React • Next.js • Firebase
 
@@ -15,6 +15,10 @@
 
 ## 👋 About Me
 
+<table>
+<tr>
+<td width="65%" valign="top">
+
 ```js
 const dranyl = {
   name: "Alfie Lynard Polacas",
@@ -28,6 +32,13 @@ const dranyl = {
   },
 };
 ```
+
+</td>
+<td width="35%" align="center">
+<img src="https://raw.githubusercontent.com/Dranyl-23/Dranyl-23/main/assets/coding.jpg" width="220"/>
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -44,6 +55,14 @@ const dranyl = {
 **Tools & Deployment**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render,postman&theme=dark" />
+
+<br>
+
+## 🧊 Building, Block by Block
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Dranyl-23/Dranyl-23/main/assets/cube.jpg" width="260"/>
+</div>
 
 <br>
 
@@ -100,4 +119,4 @@ Unity AR app bringing Filipino historical heroes — Bonifacio, Rizal, Lapu-Lapu
 
 <br>
 
-<img src="https://capsule-render.com/api?type=waving&color=0:00C6FF,100:6C63FF&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.com/api?type=waving&color=0:FF6B9D,50:6C63FF,100:00C6FF&height=100&section=footer" width="100%"/>
