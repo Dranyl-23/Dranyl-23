@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- VIDEO HEADER (test) — paste your github user-attachments URL below, replace the line entirely -->
-(https://github.com/user-attachments/assets/843c72bf-f9e6-431b-9846-c9880967f456)
+https://github.com/user-attachments/assets/843c72bf-f9e6-431b-9846-c9880967f456
 
 <!-- fallback banner, kept as comment in case the video doesn't load:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,15:6C63FF,40:00C6FF,65:8A2BE2,100:FF6B9D&height=220&section=header&text=Dranyl&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20App%20%26%20Web%20Developer&descAlignY=58&descSize=18" width="100%"/>
