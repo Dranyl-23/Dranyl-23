@@ -35,7 +35,7 @@ const dranyl = {
 
 </td>
 <td width="35%" align="center">
-<img src="https://raw.githubusercontent.com/Dranyl-23/Dranyl-23/main/coding.jpg" width="220"/>
+<img src="https://raw.githubusercontent.com/Dranyl-23/Dranyl-23/main/assets/coding.jpg" width="220"/>
 </td>
 </tr>
 </table>
@@ -58,10 +58,10 @@ const dranyl = {
 
 <br>
 
-## 🧊 Building, Block by Block
+## 🎧 Off the Clock
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Dranyl-23/Dranyl-23/main/404.jpg" width="260"/>
+<img src="https://raw.githubusercontent.com/Dranyl-23/Dranyl-23/main/assets/404.jpg" width="260"/>
 </div>
 
 <br>
