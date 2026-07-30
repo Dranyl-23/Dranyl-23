@@ -80,13 +80,13 @@ const dranyl = {
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/Dranyl-23/Dranyl-23/main/logo.png" width="100"/> [ChainBudget](https://github.com/Dranyl-23/Chainbudget)
+### <img src="https://raw.githubusercontent.com/Dranyl-23/Dranyl-23/main/logo.png" width="50"/> [ChainBudget](https://github.com/Dranyl-23/Chainbudget)
 Web3-integrated app for transparent organizational fund monitoring — built on **BASE chain**, with MetaMask on-chain signing, IPFS document verification, and automated multi-level approval workflows.
 
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/Dranyl-23/Dranyl-23/main/icon.jpg" width="100"/> [4Ps-Nexus](https://github.com/Dranyl-23)
+### <img src="https://raw.githubusercontent.com/Dranyl-23/Dranyl-23/main/icon.jpg" width="50"/> [4Ps-Nexus](https://github.com/Dranyl-23)
 Blockchain-based cash disbursement platform for Philippine 4Ps beneficiaries, built on **Stellar/Soroban** using USDC — designed around real financial and regulatory constraints.
 
 </td>
@@ -94,7 +94,7 @@ Blockchain-based cash disbursement platform for Philippine 4Ps beneficiaries, bu
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/Dranyl-23/Dranyl-23/main/RD_logo.png" width="100"/> [Report-Davao](https://github.com/Dranyl-23/Report-Davao)
+### <img src="https://raw.githubusercontent.com/Dranyl-23/Dranyl-23/main/RD_logo.png" width="70"/> [Report-Davao](https://github.com/Dranyl-23/Report-Davao)
 Civic tech platform connecting citizens and LGUs for infrastructure issue reporting in Davao City.
 
 </td>
