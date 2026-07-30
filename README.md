@@ -61,6 +61,10 @@ const dranyl = {
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,discord&theme=dark" />
 
+**AI & MACHINE LEARNING**
+
+<img src="https://skillicons.dev/icons?i=tensorflow
+,pytorch,anthropic,llamaindex,claudecode,transformers&theme=dark" />
 <br>
 
 ## 🎧 Off the Clock
