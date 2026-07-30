@@ -59,7 +59,7 @@ const dranyl = {
 
 **Tools & Deployment**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,railway,postman&theme=dark" />
 
 <br>
 
