@@ -61,7 +61,7 @@ const dranyl = {
 ## 🧊 Building, Block by Block
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Dranyl-23/Dranyl-23/main/assets/cube.jpg" width="260"/>
+<img src="https://raw.githubusercontent.com/Dranyl-23/Dranyl-23/main/cube.jpg" width="260"/>
 </div>
 
 <br>
