@@ -1,100 +1,103 @@
-<!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=200&section=header&text=Dranyl&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
+
+<img src="https://capsule-render.com/api?type=waving&color=0:6C63FF,100:00C6FF&height=200&section=header&text=Dranyl&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+
+### Mobile App & Web Developer | React • Next.js • Firebase
+
+<a href="mailto:Alfielynard23@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/alfie-lynard-polacas-36ab87370"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://lynard.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.facebook.com/Askyyy23"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+
 </div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=435&lines=Building+Next-Gen+Web+Apps;Blockchain+%26+Web3+Enthusiast;Passionate+UI%2FUX+Creator" alt="Typing SVG" /></a>
-</div>
+<br>
 
-<div align="center">
-  <a href="mailto:alfielvnard23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/alfie-lynard-polacas"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://lynard-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=react&logoColor=white" /></a>
-  <a href="https://facebook.com/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-</div>
+## 👋 About Me
 
-<br />
-
-## 👨‍💻 About Me
-
-```javascript
+```js
 const dranyl = {
   name: "Alfie Lynard Polacas",
   alias: "Dranyl",
   role: "Mobile App & Web Developer",
-  location: "Davao City, Philippines 📍",
+  location: "Davao City, Philippines 🇵🇭",
   passion: "Building sleek, scalable, and premium applications.",
   techFocus: ["Web3", "Next.js", "React Native", "UI/UX Design"],
-  sayHi: function() {
+  sayHi: function () {
     return "Let's build something amazing together!";
-  }
+  },
 };
 ```
 
-<br />
+<br>
 
 ## 🛠️ Tech Stack & Arsenal
 
-<div align="center">
-  <p><strong>Frontend & UI</strong></p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap,figma&theme=dark" />
-  <br/><br/>
-  <p><strong>Backend, Database & Blockchain</strong></p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql,solidity&theme=dark" />
-  <br/><br/>
-  <p><strong>Tools & Deployment</strong></p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman&theme=dark" />
-</div>
+**Frontend & UI**
 
-<br />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,flutter,figma&theme=dark" />
+
+**Backend, Database & Blockchain**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,solidity,unity&theme=dark" />
+
+**Tools & Deployment**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render,postman&theme=dark" />
+
+<br>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💰 [ChainBudget](https://github.com/Dranyl-23/Chainbudget)
+Web3-integrated app for transparent organizational fund monitoring — built on **BASE chain**, with MetaMask on-chain signing, IPFS document verification, and automated multi-level approval workflows.
+
+</td>
+<td width="50%" valign="top">
+
+### 🏛️ [4Ps-Nexus](https://github.com/Dranyl-23)
+Blockchain-based cash disbursement platform for Philippine 4Ps beneficiaries, built on **Stellar/Soroban** using USDC — designed around real financial and regulatory constraints.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏙️ [Report-Davao](https://github.com/Dranyl-23/Report-Davao)
+Civic tech platform connecting citizens and LGUs for infrastructure issue reporting in Davao City.
+
+</td>
+<td width="50%" valign="top">
+
+### 🗡️ [ARBayani](https://github.com/Dranyl-23/ARBayani)
+Unity AR app bringing Filipino historical heroes — Bonifacio, Rizal, Lapu-Lapu — to life through Vuforia image targeting and interactive lessons.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 📈 Currently Learning & Goals
+
+- 🦀 Learning **Rust** and exploring its role in blockchain ecosystems (Solana, Polkadot, Near, Aptos, Sui)
+- ☁️ Deepening knowledge of cloud architecture
+- 🧩 Evaluating **.NET MAUI / C#** and **Laravel** as stack expansions
+- 🌍 Aiming to build more open-source Web3 projects that solve real-world problems
+
+<br>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dranyl-23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dranyl-23&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dranyl-23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Dranyl-23&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=00C6FF" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dranyl-23&theme=dark&hide_border=true&background=0d1117&ring=6C63FF&fire=00C6FF" width="48%" />
 </div>
 
-<br />
+<br>
 
-## 🚀 Featured Project: ChainBudget
-
-<div align="center">
-  <a href="https://chainbudget.vercel.app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dranyl-23&repo=Chainbudget&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117" />
-  </a>
-</div>
-
-**A Web3-Integrated App for Transparent Organizational Fund Monitoring**
-
-*ChainBudget is a blockchain-based management system designed to bring unparalleled security, transparency, and efficiency to organizational funding and budgeting processes.*
-
-**🎯 Main Purpose**
-- Track expenses and income seamlessly using a modern Web2 interface.
-- Provide transparent and immutable records using Web3 Blockchain technology.
-- Prevent fund mismanagement through Role-Based Access Control and 2-of-N Multi-Sig approvals.
-- Enable automated execution of verified transactions via Smart Contracts.
-
-**✨ Key Features**
-- Role-Based Dashboard with Analytics
-- MetaMask integration for On-Chain signing
-- Document verification and IPFS/Hash storing
-- Audit trails for all financial activities
-- Automated multi-level approval workflows
-
-<br />
-
-## 🌱 Currently Learning & Goals
-- Exploring advanced **Smart Contract** security patterns.
-- Deepening knowledge in **Cloud Architecture** (AWS/GCP).
-- Aiming to build more open-source Web3 projects that solve real-world problems.
-
-<br />
-
----
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=100&section=footer" width="100%" />
-</div>
+<img src="https://capsule-render.com/api?type=waving&color=0:00C6FF,100:6C63FF&height=100&section=footer" width="100%"/>
