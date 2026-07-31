@@ -7,7 +7,7 @@
 -->
 
 
-### Mobile App & Web Developer | React • Next.js • Firebase
+### Mobile App & Web Developer | React • Next.js • Firebase | Blockchain Developer
 
 <a href="mailto:Alfielynard23@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/alfie-lynard-polacas-36ab87370"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
